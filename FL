@@ -1,4 +1,4 @@
-# 19:42 Thu 03 Apr 2025
+# 20:10 Wed 30 Apr 2025
 
 0.0.0.0 media.net
 0.0.0.0 afs.googlesyndication.com
@@ -19,3 +19,8 @@
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 metrika.yandex.ru
+0.0.0.0 business.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 tracking.tiktok.com
