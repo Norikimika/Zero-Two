@@ -1,15 +1,7 @@
-# 20:10 Wed 30 Apr 2025
+# 00:38 Mon 19 May 2025
 
-0.0.0.0 media.net
 0.0.0.0 afs.googlesyndication.com
-0.0.0.0 analytics.google.com
 0.0.0.0 click.googleanalytics.com
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 app.getsentry.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 business-api.tiktok.com
@@ -19,8 +11,3 @@
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 metrika.yandex.ru
-0.0.0.0 business.tiktok.com
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 log.byteoversea.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 tracking.tiktok.com
